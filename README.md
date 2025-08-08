@@ -44,10 +44,10 @@ Os dados utilizados para o estudos não puderam ser importados para o repositór
 
 ## Tecnologias Utilizadas
 
-python (pandas, numpy)
-SQL em Spark
-Jupyter Notebook
-Armazenamento em nuvem (google colab)
+python (pandas, numpy)<br>
+SQL em Spark<br>
+Jupyter Notebook<br>
+Armazenamento em nuvem (google colab)<br>
 Big Data
 
 ## Resultados e Feedback
