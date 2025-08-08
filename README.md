@@ -32,8 +32,8 @@ Seu objetivo será trazer uma breve análise dessas informações, como foi a or
 
 ## Estrutura dos Arquivos
 
-Dicionario_PNAD_COVID_092020_20220621.xls - Dicionário da Variáveis da PNAD_COVID_092020<br>
-Dicionario_PNAD_COVID_102020_20220621.xls - Dicionário da Variáveis da PNAD_COVID_102020<br>
+Dicionario_PNAD_COVID_092020_20220621.xls - Dicionário das Variáveis da PNAD_COVID_092020<br>
+Dicionario_PNAD_COVID_102020_20220621.xls - Dicionário das Variáveis da PNAD_COVID_102020<br>
 Notebook.ipynb - Versão local do Notebook utilizado para a análise, a versão em nuvem pode ser vista no link: [Notebook em nuvem](https://colab.research.google.com/drive/1drMSnol9HZkPkpH3egsGDsz5ESYsuO7M#scrollTo=bSEQwnlCK7uY)<br>
 Postech - Tech Challenge - Fase 3.pdf - Apresentação do problema e base para construção do projeto<br>
 Tech Challenge III.pdf - Apresentação final do estudo
